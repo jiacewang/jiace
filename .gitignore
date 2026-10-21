@@ -1,0 +1,19 @@
+# Keil uVision MDK-ARM build output
+*.o
+*.d
+*.crf
+*.axf
+*.htm
+*.dep
+*.lnp
+*.lst
+*.map
+*.build_log.htm
+*.uvoptx
+*.uvgui.*
+Listings/
+Objects/
+
+# VS Code / OS generated
+.vscode/
+.DS_Store
